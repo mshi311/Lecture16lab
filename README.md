@@ -1,5 +1,5 @@
 # Data Skills 2 - R
-## Winter Quarter 2024
+## Fall Quarter 2024
 
 ## Lecture 16 Lab
 
